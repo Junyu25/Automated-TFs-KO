@@ -1,6 +1,7 @@
 
 This is a github repo for manuscript:
-"Biofoundry-enabled Investigation of the Combinatorial Effects of Transcription Factors on Free Fatty Acid Synthesis in Saccharomyces cerevisiae"
+
+**"Biofoundry-enabled Investigation of the Combinatorial Effects of Transcription Factors on Free Fatty Acid Synthesis in Saccharomyces cerevisiae"**
 
 
 ## Echo_primer_transfer
