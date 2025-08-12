@@ -1,5 +1,5 @@
 
-This is a github repo for manuscript:
+This is a GitHub repository for the manuscript：
 
 **"Biofoundry-enabled Investigation of the Combinatorial Effects of Transcription Factors on Free Fatty Acid Synthesis in Saccharomyces cerevisiae"**
 
