@@ -2,6 +2,7 @@
 This is a github repo for manuscript:
 "Biofoundry-enabled Investigation of the Combinatorial Effects of Transcription Factors on Free Fatty Acid Synthesis in Saccharomyces cerevisiae"
 
+
 ## Echo_primer_transfer
 
 ### Usage
@@ -62,6 +63,6 @@ examples:
 
 
 
-## Fluent Worklist
+## Fluent_worklist
 
 Please refer to `./Fluent_worklist/Fluent_worklist.ipynb`
